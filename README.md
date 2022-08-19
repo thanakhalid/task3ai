@@ -45,3 +45,4 @@ $ export TURTLEBOT3_MODEL=waffle
 $ roslaunch turtlebot3_gazebo turtlebot3_world.launch
 
 
+![2](https://github.com/thanathea/task3ai/blob/main/Screenshot%202022-08-19%20114734.png)
